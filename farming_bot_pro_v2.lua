@@ -1,6 +1,6 @@
 local config = {
     FARMING_DELAY = 3,
-    COMMON_FRUITS = {"Apple", "Carrot", "Tomato", "Potato", "Lettuce"},
+    COMMON_FRUITS = {"Apple", "Bamboo", "Tomato", "Potato", "Lettuce"},
     PET_CRATE_COST = 10000,
     PET_CRATE_BUTTON_NAME = "OpenCrate",
     TELEGRAM_TOKEN = "123456789:ABCDEFghijklmnopqrstuvwxyz",
